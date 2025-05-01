@@ -43,35 +43,35 @@ J2SE 1.2 1998-12-08 ，
 
 ***detail content***
 
-[Java SE 24](content#jdk24/) ,
-[Java SE 23](content#jdk23/) ,
-[Java SE 22](content#jdk22/) ,
+[Java SE 24](content#jdk24) ,
+[Java SE 23](content#jdk23) ,
+[Java SE 22](content#jdk22) ,
 
-[Java SE 21 (LTS)](content#jdk21/) ,
-[Java SE 20](content#jdk20/) ,
-[Java SE 19](content#jdk19/) ,
-[Java SE 18](content#jdk18/)  ,
+[Java SE 21 (LTS)](content#jdk21) ,
+[Java SE 20](content#jdk20) ,
+[Java SE 19](content#jdk19) ,
+[Java SE 18](content#jdk18)  ,
 
-[Java SE 17 (LTS)](content#jdk17/)  ,
-[Java SE 16](content#jdk16/)  ,
-[Java SE 15](content#jdk15/)  ,
-[Java SE 14](content#jdk14/)  ,
-[Java SE 13](content#jdk13/)  ,
-[Java SE 12](content#jdk12/)  ,
+[Java SE 17 (LTS)](content#jdk17)  ,
+[Java SE 16](content#jdk16)  ,
+[Java SE 15](content#jdk15)  ,
+[Java SE 14](content#jdk14)  ,
+[Java SE 13](content#jdk13)  ,
+[Java SE 12](content#jdk12)  ,
 
-[Java SE 11 (LTS)](content#jdk11/)  ,
-[Java SE 10](content#jdk10/)  ,
-[Java SE 9](content#jdk9/)  ,
+[Java SE 11 (LTS)](content#jdk11)  ,
+[Java SE 10](content#jdk10)  ,
+[Java SE 9](content#jdk9)  ,
 
-[Java SE 8 (LTS)](content#jdk8/)  ,
+[Java SE 8 (LTS)](content#jdk8)  ,
 
-[Java SE 7](content#jdk7/)  ,
+[Java SE 7](content#jdk7)  ,
 
-[Java SE 6](content#jdk6/)  ,
+[Java SE 6](content#jdk6)  ,
 
-[J2SE 5](content#jdk5/)  ,
-[J2SE 1.4](content#jdk4/)  ,
-[J2SE 1.3](content#jdk3/)  ,
+[J2SE 5](content#jdk5)  ,
+[J2SE 1.4](content#jdk4)  ,
+[J2SE 1.3](content#jdk3)  ,
  
 
 # eclipse
