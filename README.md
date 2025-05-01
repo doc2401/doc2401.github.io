@@ -5,6 +5,8 @@ hello
 # JDK
 
 
+[Java SE 6 中文](jdk.6.zh/api/) ,
+
 
 [Java SE 24 2025-03-18](jdk.24.0.1/) ,
 [Java SE 23 2024-09-17](jdk.23.0.2/) ,
