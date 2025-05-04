@@ -315,6 +315,41 @@
 
 ## spring6        
 
+- docs/reference/
+- [docs/reference/html/index.html](spring.6.0.0/docs/reference/html/index.html)
+- docs/javadoc-api/
+- [docs/javadoc-api/index.html](spring.6.0.0/docs/javadoc-api/index.html)
+- docs/kdoc-api/
+- [docs/kdoc-api/index.html](spring.6.0.0/docs/kdoc-api/index.html)
+- [docs/kdoc-api/spring-beans/index.html](spring.6.0.0/docs/kdoc-api/spring-beans/index.html)
+- [docs/kdoc-api/spring-context/index.html](spring.6.0.0/docs/kdoc-api/spring-context/index.html)
+- [docs/kdoc-api/spring-core/index.html](spring.6.0.0/docs/kdoc-api/spring-core/index.html)
+- [docs/kdoc-api/spring-jdbc/index.html](spring.6.0.0/docs/kdoc-api/spring-jdbc/index.html)
+- [docs/kdoc-api/spring-messaging/index.html](spring.6.0.0/docs/kdoc-api/spring-messaging/index.html)
+- [docs/kdoc-api/spring-r2dbc/index.html](spring.6.0.0/docs/kdoc-api/spring-r2dbc/index.html)
+- [docs/kdoc-api/spring-test/index.html](spring.6.0.0/docs/kdoc-api/spring-test/index.html)
+- [docs/kdoc-api/spring-tx/index.html](spring.6.0.0/docs/kdoc-api/spring-tx/index.html)
+- [docs/kdoc-api/spring-web/index.html](spring.6.0.0/docs/kdoc-api/spring-web/index.html)
+- [docs/kdoc-api/spring-webflux/index.html](spring.6.0.0/docs/kdoc-api/spring-webflux/index.html)
+- [docs/kdoc-api/spring-webmvc/index.html](spring.6.0.0/docs/kdoc-api/spring-webmvc/index.html)
+- schema/
+- [schema/aop/spring-aop.xsd](spring.6.0.0/schema/aop/spring-aop.xsd)
+- [schema/beans/spring-beans.xsd](spring.6.0.0/schema/beans/spring-beans.xsd)
+- [schema/cache/spring-cache.xsd](spring.6.0.0/schema/cache/spring-cache.xsd)
+- [schema/context/spring-context.xsd](spring.6.0.0/schema/context/spring-context.xsd)
+- [schema/jdbc/spring-jdbc.xsd](spring.6.0.0/schema/jdbc/spring-jdbc.xsd)
+- [schema/jee/spring-jee.xsd](spring.6.0.0/schema/jee/spring-jee.xsd)
+- [schema/jms/spring-jms.xsd](spring.6.0.0/schema/jms/spring-jms.xsd)
+- [schema/lang/spring-lang.xsd](spring.6.0.0/schema/lang/spring-lang.xsd)
+- [schema/mvc/spring-mvc.xsd](spring.6.0.0/schema/mvc/spring-mvc.xsd)
+- [schema/oxm/spring-oxm.xsd](spring.6.0.0/schema/oxm/spring-oxm.xsd)
+- [schema/task/spring-task.xsd](spring.6.0.0/schema/task/spring-task.xsd)
+- [schema/tool/spring-tool.xsd](spring.6.0.0/schema/tool/spring-tool.xsd)
+- [schema/tx/spring-tx.xsd](spring.6.0.0/schema/tx/spring-tx.xsd)
+- [schema/util/spring-util.xsd](spring.6.0.0/schema/util/spring-util.xsd)
+- [schema/websocket/spring-websocket.xsd](spring.6.0.0/schema/websocket/spring-websocket.xsd)
+
+
 
 ## spring5.3.39             
 
