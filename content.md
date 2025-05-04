@@ -265,18 +265,25 @@
 
 ## jdk5
 
-[Java SE 22](jdk.8u451/) ,
-- [api/](jdk.8u451/api/)  ,
-- [legal/](jdk.8u451/legal/)  ,
-- [specs/](jdk.8u451/specs/)  ,
+[J2SE 5](jdk.5/) 2004-09-30 ,
+- [api/](jdk.5/api/)  ,
+- [guide/](jdk.5/guide/)  ,
+- relnotes/
+    - [features.html](jdk.5/relnotes/features.html)  ,
+    ...
+- [tooldocs/](jdk.5/tooldocs/)  ,
 
 
 ## jdk4
 
-[Java SE 22](jdk.8u451/) ,
-- [api/](jdk.8u451/api/)  ,
-- [legal/](jdk.8u451/legal/)  ,
-- [specs/](jdk.8u451/specs/)  ,
+[J2SE 1.4](jdk.4/) 2002-02-06 ,
+- [api/](jdk.4/api/)  ,
+- guide/
+- [install-notes/](jdk.4/install-notes/disk-space.html)  ,
+- relnotes/
+    - [features.html](jdk.4/relnotes/features.html)  ,
+    ...
+- [tooldocs/tools.html](jdk.4/tooldocs/tools.html)  ,
 
 
 ## jdk3
