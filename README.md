@@ -95,15 +95,15 @@ J2SE 1.2 1998-12-08 ，
 
 ***detail content***
 
-[spring 6](content#spring6)  ，  
-[spring 5.3.39](content#spring5.3.39)  ，  
-[spring 5.3.39.SNAPSHOT](content#spring5.3.39.SNAPSHOT)  ，  
-[spring 5.0.0](content#spring5)  ，  
-[spring 4.3.30](content#spring4.3.30)  ，  
-[spring 4.1.7](content#spring4.1.7)  ，  
-[spring 3.2.19](content#spring3.2.19)  ，  
+[spring 6](content#spring_6)  ，  
+[spring 5.3.39](content#spring_5_3_39)  ，  
+[spring 5.3.39.SNAPSHOT](content#spring_5_3_39_SNAPSHOT)  ，  
+[spring 5.0.0](content#spring_5)  ，  
+[spring 4.3.30](content#spring_4_3_30)  ，  
+[spring 4.1.7](content#spring_4_1_7)  ，  
+[spring 3.2.19](content#spring_3_2_19)  ，  
 
-[spring boot 3.2.9](content#spring-boot.3.2.9)  ，  
+[spring boot 3.2.9](content#spring-boot_3_2_9)  ，  
 
 
 

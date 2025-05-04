@@ -313,7 +313,7 @@
 
  
 
-## spring6        
+## spring_6        
 
 - docs/reference/
 - [docs/reference/html/index.html](spring.6.0.0/docs/reference/html/index.html)
@@ -351,7 +351,7 @@
 
 
 
-## spring5.3.39             
+## spring_5_3_39             
 
 - docs/reference/
 - [docs/reference/html/index.html](spring.5.3.39/docs/reference/html/index.html)
@@ -389,7 +389,7 @@
 
 
 
-## spring5.3.39.SNAPSHOT         
+## spring_5_3_39_SNAPSHOT         
 
 - [docs/reference/html/index.html](spring.5.3.39.SNAPSHOT/docs/reference/html/index.html)
 - docs/javadoc-api/
@@ -424,7 +424,7 @@
 - [schema/util/spring-util.xsd](spring.5.3.39.SNAPSHOT/schema/util/spring-util.xsd)
 - [schema/websocket/spring-websocket.xsd](spring.5.3.39.SNAPSHOT/schema/websocket/spring-websocket.xsd)
 
-## spring5                     
+## spring_5                     
 
 
 - docs/spring-framework-reference/
@@ -461,7 +461,7 @@
 - [schema/util/spring-util.xsd](spring.5.0.0/schema/util/spring-util.xsd)
 - [schema/websocket/spring-websocket.xsd](spring.5.0.0/schema/websocket/spring-websocket.xsd)
 
-## spring4.3.30                
+## spring_4_3_30                
 
 
 - docs/spring-framework-reference/
@@ -603,7 +603,7 @@
   [spring-websocket-4.2.xsd](spring.4.3.30/schema/websocket/spring-websocket-4.2.xsd)  , 
   [spring-websocket-4.3.xsd](spring.4.3.30/schema/websocket/spring-websocket-4.3.xsd)  , 
 
-## spring4.1.7              
+## spring_4_1_7              
 
 - docs/spring-framework-reference/
 - [docs/spring-framework-reference/html/index.html](spring.4.1.7/docs/spring-framework-reference/html/index.html)
@@ -714,7 +714,7 @@
   [spring-websocket-4.0.xsd](spring.4.1.7/schema/websocket/spring-websocket-4.0.xsd)  , 
   [spring-websocket-4.1.xsd](spring.4.1.7/schema/websocket/spring-websocket-4.1.xsd)  , 
 
-## spring3.2.19                                   
+## spring_3_2_19                                   
 
 - docs/spring-framework-reference/
 - [docs/spring-framework-reference/html/index.html](spring.3.2.19/docs/spring-framework-reference/html/index.html)
@@ -796,7 +796,7 @@
 
 
 
-## spring-boot.3.2.9
+## spring-boot_3_2_9
 
 
 - reference/
