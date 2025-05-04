@@ -427,6 +427,40 @@
 ## spring5                     
 
 
+- docs/spring-framework-reference/
+- [docs/spring-framework-reference/index.html](spring.5.0.0/docs/spring-framework-reference/index.html)
+- [docs/spring-framework-reference/html5/index.html](spring.5.0.0/docs/spring-framework-reference/html5/index.html)
+- docs/javadoc-api/
+- [docs/javadoc-api/index.html](spring.5.0.0/docs/javadoc-api/index.html)
+- docs/kdoc-api/spring-framework/
+- [docs/kdoc-api/spring-framework/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.beans.factory/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.beans.factory/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.context.annotation/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.context.annotation/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.context.support/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.context.support/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.core.env/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.core.env/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.jdbc.core/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.jdbc.core/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.test.web.reactive.server/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.test.web.reactive.server/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.ui/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.ui/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.web.client/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.web.client/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.web.reactive.function.client/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.web.reactive.function.client/index.html)
+- [docs/kdoc-api/spring-framework/org.springframework.web.reactive.function.server/index.html](spring.5.0.0/docs/kdoc-api/spring-framework/org.springframework.web.reactive.function.server/index.html)
+- schema/aop/
+- [schema/aop/spring-aop.xsd](spring.5.0.0/schema/aop/spring-aop.xsd)
+- [schema/beans/spring-beans.xsd](spring.5.0.0/schema/beans/spring-beans.xsd)
+- [schema/cache/spring-cache.xsd](spring.5.0.0/schema/cache/spring-cache.xsd)
+- [schema/context/spring-context.xsd](spring.5.0.0/schema/context/spring-context.xsd)
+- [schema/jdbc/spring-jdbc.xsd](spring.5.0.0/schema/jdbc/spring-jdbc.xsd)
+- [schema/jee/spring-jee.xsd](spring.5.0.0/schema/jee/spring-jee.xsd)
+- [schema/jms/spring-jms.xsd](spring.5.0.0/schema/jms/spring-jms.xsd)
+- [schema/lang/spring-lang.xsd](spring.5.0.0/schema/lang/spring-lang.xsd)
+- [schema/mvc/spring-mvc.xsd](spring.5.0.0/schema/mvc/spring-mvc.xsd)
+- [schema/oxm/spring-oxm.xsd](spring.5.0.0/schema/oxm/spring-oxm.xsd)
+- [schema/task/spring-task.xsd](spring.5.0.0/schema/task/spring-task.xsd)
+- [schema/tool/spring-tool.xsd](spring.5.0.0/schema/tool/spring-tool.xsd)
+- [schema/tx/spring-tx.xsd](spring.5.0.0/schema/tx/spring-tx.xsd)
+- [schema/util/spring-util.xsd](spring.5.0.0/schema/util/spring-util.xsd)
+- [schema/websocket/spring-websocket.xsd](spring.5.0.0/schema/websocket/spring-websocket.xsd)
+
 ## spring4.3.30                
 
 
