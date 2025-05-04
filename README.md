@@ -11,6 +11,7 @@
 - [spring](#spring)
 - [eclipse](#eclipse)
 - [kafka](#kafka)
+- [rabbitmq](#rabbitmq)
 
 
 [detail content](content/) ,
@@ -292,3 +293,12 @@ J2SE 1.2 1998-12-08 ，
  [0.8.0](kafka-site/08/javadoc/)  ,
  [0.7.x](kafka-site/07/javadoc/)  ,
 
+
+# rabbitmq
+
+- [rabbitmq-website](rabbitmq-website/)  ,  
+  - [HTTP API Reference](rabbitmq-website/docs/http-api-reference)  ,  
+- [rabbitmq-server](rabbitmq-server/)  ,
+  - [RabbitMQ Management HTTP API](rabbitmq-server/deps/rabbitmq_management/priv/www/api/index.html)  ,
+   
+ 
