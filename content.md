@@ -228,10 +228,39 @@
 
 ## jdk6
 
-[Java SE 22](jdk.8u451/) ,
-- [api/](jdk.8u451/api/)  ,
-- [legal/](jdk.8u451/legal/)  ,
-- [specs/](jdk.8u451/specs/)  ,
+[Java SE 6](jdk.6/) 2006-12-11 ,
+- [api/](jdk.6/api/)  ,
+- jdk/api/
+- [jdk/api/apt/mirror/](jdk.6/jdk/api/apt/mirror/)  ,
+- [jdk/api/attach/spec/](jdk.6/jdk/api/attach/spec/)  ,
+- [jdk/api/javac/tree/](jdk.6/jdk/api/javac/tree/)  ,
+- [jdk/api/javadoc/doclet/](jdk.6/jdk/api/javadoc/doclet/)  ,
+- [jdk/api/javadoc/taglet/com/sun/tools/doclets/](jdk.6/jdk/api/javadoc/taglet/com/sun/tools/doclets/package-summary.html)  ,
+- [jdk/api/jconsole/spec/](jdk.6/jdk/api/jconsole/spec/)  ,
+- [jdk/api/jpda/jdi/](jdk.6/jdk/api/jpda/jdi/)  ,
+- jre/api/
+- [jre/api/javaws/jnlp/](jdk.6/jre/api/javaws/jnlp/)  ,
+- jre/api/management/
+- [jre/api/management/extension/](jdk.6/jre/api/management/extension/)  ,
+- [jre/api/net/httpserver/spec/](jdk.6/jre/api/net/httpserver/spec/)  ,
+- [jre/api/plugin/dom/](jdk.6/jre/api/plugin/dom/)  ,
+- jre/api/security/
+- [jre/api/security/jaas/spec/](jdk.6/jre/api/security/jaas/spec/)  ,
+- [jre/api/security/jgss/spec/](jdk.6/jre/api/security/jgss/spec/)  ,
+- [jre/api/security/smartcardio/spec/](jdk.6/jre/api/security/smartcardio/spec/)  ,
+- [legal/](jdk.6/legal/cpyr.html)  ,
+- platform/
+- [platform/jpda/jdwp/](jdk.6/platform/jpda/jdwp/jdwp-protocol.html)  ,
+- [platform/jvmti/](jdk.6/platform/jvmti/jvmti.html)  ,
+- [platform/rmi/spec/](jdk.6/platform/rmi/spec/rmiTOC.html)  ,
+- [platform/serialization/spec/](jdk.6/platform/serialization/spec/serialTOC.html)  ,
+- technotes/
+- technotes/css/
+- [technotes/guides/](jdk.6/technotes/guides/)  ,
+- technotes/samples 
+      [demos.html](jdk.6/technotes/samples/demos.html)  , 
+      [javaws_samples.html](jdk.6/technotes/samples/javaws_samples.html)  ,
+- [technotes/tools/](jdk.6/technotes/tools/)  ,
 
 
 ## jdk5
