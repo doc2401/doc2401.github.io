@@ -288,11 +288,13 @@
 
 ## jdk3
 
-[Java SE 22](jdk.8u451/) ,
-- [api/](jdk.8u451/api/)  ,
-- [legal/](jdk.8u451/legal/)  ,
-- [specs/](jdk.8u451/specs/)  ,
-
+[J2SE 1.3](jdk.3/) 2000-05-08 ,
+- [api/](jdk.3/api/)  ,
+- [guide/](jdk.5/guide/)  ,
+- relnotes/
+    - [features.html](jdk.3/relnotes/features.html)  ,
+    ...
+- [tooldocs/tools.html](jdk.3/tooldocs/tools.html)  ,
 
 ## jdk2
 
