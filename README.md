@@ -180,6 +180,12 @@ J2SE 1.2 1998-12-08 ，
   [reference](spring-boot.4.0.0/reference/) ，
   [java api](spring-boot.4.0.0/api/java/) ，
   [kotlin api](spring-boot.4.0.0/api/kotlin/) ，
+
+- **4.0.0 中文翻译**    
+  [index](spring-boot.4.0.0.lang/zh/) ，
+  [reference](spring-boot.4.0.0.lang/zh/reference/) ，
+  [java api](spring-boot.4.0.0.lang/zh/api/java/) ，
+  [kotlin api](spring-boot.4.0.0.lang/zh/api/kotlin/) ，
   
 - **3.5.8** *2025-11-20*   
 
