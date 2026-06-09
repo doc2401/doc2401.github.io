@@ -122,6 +122,12 @@ J2SE 1.2 1998-12-08 ，
   [javadoc api](spring.7.0.1/javadoc-api/) ，
   [kdoc api](spring.7.0.1/kdoc-api/) ，
 
+- **7.0.1 中文翻译** 
+
+  [reference](spring.7.0.1.lang/zh/reference/) ，
+  [javadoc api](spring.7.0.1.lang/zh/javadoc-api/) ，
+  [kdoc api](spring.7.0.1.lang/zh/kdoc-api/) ，
+
 - **6.2.14** *2025-11-20*
 
   [reference](spring.6.2.14/reference/) ，
@@ -180,6 +186,12 @@ J2SE 1.2 1998-12-08 ，
   [reference](spring-boot.4.0.0/reference/) ，
   [java api](spring-boot.4.0.0/api/java/) ，
   [kotlin api](spring-boot.4.0.0/api/kotlin/) ，
+
+- **4.0.0 中文翻译**    
+  [index](spring-boot.4.0.0.lang/zh/) ，
+  [reference](spring-boot.4.0.0.lang/zh/reference/) ，
+  [java api](spring-boot.4.0.0.lang/zh/api/java/) ，
+  [kotlin api](spring-boot.4.0.0.lang/zh/api/kotlin/) ，
   
 - **3.5.8** *2025-11-20*   
 
